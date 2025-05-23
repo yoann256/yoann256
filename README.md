@@ -18,3 +18,9 @@ This README may be updated in the future.
     A simple and straightforward package/app manager for Android.  
     Think of it as a lightweight alternative for managing apps without the bloat.
   </details>
+
+- **Android in your browser**  
+  <details>
+    <summary>More info</summary>
+    Basically a *remake* of Android that you can *play* right in your browser!
+  </details>
